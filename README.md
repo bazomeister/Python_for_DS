@@ -79,3 +79,10 @@ In this session, the focus is on working with Python environments, version contr
 ### 4. **Temperature Converter**
    - Write a function `celsius_to_fahrenheit(celsius)` that converts Celsius to Fahrenheit.
    - Output the conversion for specific temperatures.
+
+
+## Session 3
+
+### Object Oriented Programming
+This session focused on Object-Oriented Programming (OOP) in Python. It introduced key concepts such as classes, objects, attributes, and methods. The primary objective was understanding how to structure programs using classes and create objects that model real-world entities. The session covered how OOP principles like abstraction, inheritance, and encapsulation code.
+
