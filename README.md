@@ -4,7 +4,7 @@ This repository will contain the weekly exercises from the **Python for Data Sci
 
 ## Session 1: Exercises
 
-Session 1 focuses on Python basics like printing, variables, loops, lists, and simple functions. These tasks help me get comfortable with the core concepts of Python.
+Session 1 focuses on Python basics like printing, variables, loops, lists, and simple functions. These tasks help me become comfortable with Python's core concepts.
 
 ### 1. **Print a Greeting**
    - Print a simple greeting message using Python.
@@ -84,5 +84,14 @@ In this session, the focus is on working with Python environments, version contr
 ## Session 3
 
 ### Object Oriented Programming
-This session focused on Object-Oriented Programming (OOP) in Python. It introduced key concepts such as classes, objects, attributes, and methods. The primary objective was understanding how to structure programs using classes and create objects that model real-world entities. The session covered how OOP principles like abstraction, inheritance, and encapsulation code.
+This session focused on Object-Oriented Programming (OOP) in Python. It introduced key concepts such as classes, objects, attributes, and methods. The primary objective was to understand how to structure programs using classes and create objects that model real-world entities. The session covered OOP principles like abstraction, inheritance, and encapsulation code.
 
+
+## Session 4
+
+Session 4 provides am introduction to foundational Python libraries for data science. It covers numpy for numerical operations, scipy for scientific computing, and key utility libraries such as math, os, glob, and shutil.
+
+
+## Session 5
+
+Session 5 explores essential Python libraries, including handling the data formats, JSON, Pickle and Parquet, using the _re_ library, and working with time and datetime. 
