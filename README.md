@@ -90,8 +90,24 @@ This session focused on Object-Oriented Programming (OOP) in Python. It introduc
 ## Session 4
 
 Session 4 provides am introduction to foundational Python libraries for data science. It covers numpy for numerical operations, scipy for scientific computing, and key utility libraries such as math, os, glob, and shutil.
+Exercises:
+- File Count: Count the total number of files in the annotations folder.
+- Naming Convention Compliance: Identify how many files adhere to the specified naming format.
+- Annotations by Month and Year: Count the annotations per month and year, and determine which month has the highest number.
+- Organize by Month: Create a new directory structure, organizing annotation files into folders by month.
+- Sort and Print Annotations: List all annotations from the most recent to the oldest.
+- Satellite Analysis: Identify the number of unique satellites, count annotations per satellite, and find the satellite used in the most recent annotation.
+- Unique Regions: Count how many distinct regions are represented across the annotations.
 
 
 ## Session 5
 
-Session 5 explores essential Python libraries, including handling the data formats, JSON, Pickle and Parquet, using the _re_ library, and working with time and datetime. 
+Session 5 explores essential Python libraries, including handling the data formats JSON, Pickle, and Parquet, using the _re_ library, and working with time and DateTime. 
+Exercises:
+- Annotations by Month and Year: Count the number of annotations per month and year, and determine the month with the most annotations (similar to the previous session).
+- Dictionary Creation and Storage:
+   - Create a dictionary in which each key represents a month, and each value is a list of annotation filenames for that month.
+   - Save this dictionary in JSON format, reload it, and verify its contents.
+   - Save the dictionary in Pickle format.
+   Modify the dictionary structure to store a dictionary with name and date (using a DateTime object) for each annotation.
+- Sorted Annotations for Specific Timeframe: Print all annotations from the second half of 2024, ordered from the oldest to the newest
